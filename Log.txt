@@ -1,0 +1,2113 @@
+
+D: [86.3643, 64.7801, 40.989, 0]
+Calibration D: 201.905
+
+D: [103.642, 75.1164, 55.4576, 0]
+Calibration D: 185.066
+
+D: [84.877, 63.7169, 42.6103, 0]
+Calibration D: 203.517
+
+D: [108.061, 75.1418, 47.4517, 0]
+Calibration D: 177.33
+
+D: [80.508, 61.1006, 41.5913, 0]
+Calibration D: 212.095
+Corrected Value:  29.4966
+
+D: [80.2409, 61.2409, 42.0108, 0]
+Calibration D: 211.759
+Corrected Value:  30.2522
+
+D: [83.9665, 64.1064, 42.4468, 0]
+Calibration D: 209.182
+Corrected Value:  33.2653
+
+D: [82.58, 61.8646, 41.766, 0]
+Calibration D: 211.042
+Corrected Value:  30.7238
+
+D: [51.1002, 27.2425, 8.47191, 0]
+Calibration D: 116.364
+Corrected Value:  92.1083
+
+D: [50.4756, 27.8303, 5.4739, 0]
+Calibration D: 131.218
+Corrected Value:  74.2559
+
+D: [83.4668, 64.2577, 44.5275, 0]
+Calibration D: 210.649
+Corrected Value:  33.879
+
+D: [84.6498, 64.4178, 44.0531, 0]
+Calibration D: 211.9
+Corrected Value:  32.1534
+
+D: [84.6655, 64.375, 43.9274, 0]
+Calibration D: 211.845
+Corrected Value:  32.0824
+
+D: [84.609, 64.444, 44.3543, 0]
+Calibration D: 212.028
+Corrected Value:  32.3259
+
+D: [84.7978, 64.3891, 43.5486, 0]
+Calibration D: 211.162
+Corrected Value:  32.3871
+
+D: [84.6556, 64.2002, 44.1123, 0]
+Calibration D: 212.167
+Corrected Value:  31.9449
+
+D: [84.99, 64.9832, 44.4693, 0]
+Calibration D: 211.336
+Corrected Value:  33.1338
+
+D: [106.92, 74.1662, 42.2422, 0]
+Calibration D: 172.594
+Corrected Value:  69.648
+
+D: [107.13, 76.4488, 44.0765, 0]
+Calibration D: 175.149
+Corrected Value:  68.9279
+
+D: [106.795, 76.0571, 45.9142, 0]
+Calibration D: 176.819
+Corrected Value:  69.0957
+
+D: [107.505, 76.4984, 43.0696, 0]
+Calibration D: 173.759
+Corrected Value:  69.3109
+
+D: [106.831, 76.2509, 45.4855, 0]
+Calibration D: 176.188
+Corrected Value:  69.2975
+
+D: [106.859, 76.2481, 45.3551, 0]
+Calibration D: 176.588
+Corrected Value:  68.7672
+
+D: [86.0364, 64.7911, 40.8843, 0]
+Calibration D: 206.687
+Corrected Value:  34.1972
+
+D: [85.9129, 64.9097, 41.1991, 0]
+Calibration D: 206.288
+Corrected Value:  34.9112
+
+D: [86.5077, 64.9626, 39.4917, 0]
+Calibration D: 204.253
+Corrected Value:  35.2383
+
+D: [83.291, 62.7936, 41.656, 0]
+Calibration D: 213.236
+Corrected Value:  28.4199
+
+D: [84.4979, 64.4678, 42.0367, 0]
+Calibration D: 210.908
+Corrected Value:  31.1289
+
+D: [71.2041, 43.5125, 16.092, 0]
+Calibration D: 153.899
+Corrected Value:  62.1933
+
+D: [82.0532, 62.8376, 43.9014, 0]
+Calibration D: 216.599
+Corrected Value:  27.3028
+
+D: [83.3728, 64.4016, 46.7192, 0]
+Calibration D: 215.514
+Corrected Value:  31.2049
+
+D: [108.513, 75.9078, 42.9367, 0]
+Calibration D: 176.11
+Corrected Value:  66.8262
+
+D: [108.636, 76.1265, 42.437, 0]
+Calibration D: 175.719
+Corrected Value:  66.718
+
+D: [91.6375, 65.7313, 34.552, 0]
+Calibration D: 204.595
+Corrected Value:  29.9568
+
+D: [92.7786, 67.1587, 30.9461, 0]
+Calibration D: 205.379
+Corrected Value:  25.5674
+
+D: [63.1232, 34.5845, 8.98913, 0]
+Calibration D: 150.654
+Corrected Value:  58.3347
+
+D: [63.052, 35.2111, 15.3285, 0]
+Calibration D: 147.066
+Corrected Value:  68.2627
+
+D: [90.1639, 66.5563, 37.8672, 0]
+Calibration D: 208.884
+Corrected Value:  28.9832
+
+D: [125.947, 90.7852, 42.8607, 0]
+Calibration D: 179.236
+Corrected Value:  63.6249
+
+D: [121.938, 87.9961, 52.8731, 0]
+Calibration D: 194.994
+Corrected Value:  57.8791
+
+D: [106.668, 72.0787, 36.6452, 0]
+Calibration D: 167.563
+Corrected Value:  69.0817
+
+
+Calibration A: 0
+Corrected Value A:  200
+
+C0: [104.849, 74.5594, 46.0697, 0]
+Calibration A: 176.496
+Corrected Value A:  69.5734
+
+C0: [105.146, 70.9626, 39.1765, 0]
+Calibration A: 168.404
+Corrected Value A:  70.772
+
+C0: [104.967, 71.6681, 38.8473, 0]
+Calibration A: 169.373
+Corrected Value A:  69.4738
+
+C0: [104.402, 71.0642, 40.6174, 0]
+Calibration A: 171.354
+Corrected Value A:  69.2629
+
+C0: [80.5144, 56.898, 42.0965, 0]
+Calibration A: 214.002
+Corrected Value A:  28.0945
+
+C0: [111.252, 69.6176, 26.831, 0]
+Calibration A: 175.328
+Corrected Value A:  51.5027
+
+C0: [56.0171, 29.4108, 13.3703, 0]
+Calibration A: 158.961
+Corrected Value A:  54.4096
+
+C0: [62.9582, 36.1468, 8.05988, 0]
+Calibration A: 137.736
+Corrected Value A:  70.3234
+
+C0: [66.2971, 39.9709, 13.9536, 0]
+Calibration A: 150.64
+Corrected Value A:  63.3139
+
+C0: [92.4391, 60.4911, 22.4431, 0]
+Calibration A: 130.511
+Corrected Value A:  91.9316
+
+C0: [96.4537, 58.4905, 17.1276, 0]
+Calibration A: 148.845
+Corrected Value A:  68.2828
+
+C0: [91.0459, 57.8328, 25.962, 0]
+Calibration A: 144.14
+Corrected Value A:  81.8221
+
+C0: [68.6615, 42.4764, 18.8865, 0]
+Calibration A: 175.227
+Corrected Value A:  43.6592
+
+C0: [63.8377, 38.8492, 18.288, 0]
+Calibration A: 161.907
+Corrected Value A:  56.3812
+
+C0: [77.8645, 55.0735, 31.2148, 0]
+Calibration A: 205.643
+Corrected Value A:  25.5715
+
+C0: [79.6764, 61.0829, 39.731, 0]
+Calibration A: 209.545
+Corrected Value A:  30.1864
+
+C0: [103.281, 74.3384, 43.1375, 0]
+Calibration A: 174.369
+Corrected Value A:  68.7683
+
+C0: [110.191, 72.4523, 25.4634, 0]
+Calibration A: 174.091
+Corrected Value A:  51.3728
+
+C0: [103.746, 73.2602, 50.3538, 0]
+Calibration A: 182.232
+Corrected Value A:  68.1223
+
+C0: [110.886, 72.9012, 30.8456, 0]
+Calibration A: 179.23
+Corrected Value A:  51.6158
+
+C0RGB: [95.0773, 57.9925, 19.2018, 0]
+Calibration A: 63.0031
+Corrected Value A:  74
+
+C0RGB: [47.1485, 25.0247, 14.4055, 0]
+Calibration A: 65.3053
+Corrected Value A:  53
+
+C0RGB: [52.9127, 32.3553, 19.1066, 0]
+Calibration A: 67.0136
+Corrected Value A:  54
+
+C0RGB: [62.5284, 39.8951, 23.2986, 0]
+Calibration A: 75.14
+Corrected Value A:  49
+
+C0RGB: [57.6481, 31.8951, 18.6615, 0]
+Calibration A: 75.7095
+Corrected Value A:  47
+
+C0RGB: [52.1607, 28.4121, 15.1046, 0]
+Calibration A: 68.7442
+Corrected Value A:  52
+C0RGB: [53.5819, 28.5618, 13.7172, 0]
+Calibration A: 69.7042
+Corrected Value A:  51
+C0RGB: [54.9666, 28.6532, 12.1289, 0]
+Calibration A: 70.5796
+Corrected Value A:  51
+C0RGB: [56.3538, 28.6218, 10.6871, 0]
+Calibration A: 71.5647
+Corrected Value A:  51
+C0RGB: [57.3427, 28.5414, 9.53971, 0]
+Calibration A: 72.344
+Corrected Value A:  50
+
+C0RGB: [52.5445, 28.4413, 14.7837, 0]
+Calibration A: 69.1985
+Corrected Value A:  51
+C0RGB: [54.1737, 28.5688, 13.1868, 0]
+Calibration A: 70.1618
+Corrected Value A:  51
+C0RGB: [55.7184, 28.6215, 11.7618, 0]
+Calibration A: 71.1276
+Corrected Value A:  51
+C0RGB: [57.0302, 28.5126, 10.3604, 0]
+Calibration A: 72.0579
+Corrected Value A:  50
+C0RGB: [58.146, 28.4422, 9.21292, 0]
+Calibration A: 72.9849
+Corrected Value A:  50
+C0RGB: [58.6307, 28.8954, 8.85495, 0]
+Calibration A: 73.4533
+Corrected Value A:  50
+C0RGB: [98.6061, 63.5828, 18.3007, 0]
+Calibration A: 67.7479
+Corrected Value A:  71
+C0RGB: [70.2478, 43.2471, 22.0576, 0]
+Calibration A: 81.1867
+Corrected Value A:  46
+C0RGB: [70.2152, 43.115, 22.1444, 0]
+Calibration A: 81.238
+Corrected Value A:  46
+C0RGB: [70.1924, 43.1125, 22.1235, 0]
+Calibration A: 81.2367
+Corrected Value A:  46
+C0RGB: [70.0391, 43.2198, 21.9472, 0]
+Calibration A: 81.1829
+Corrected Value A:  46
+C0RGB: [110.122, 73.5834, 44.1786, 0]
+Calibration A: 77.7291
+Corrected Value A:  65
+C0RGB: [63.784, 38.8222, 15.1931, 0]
+Calibration A: 76.0988
+Corrected Value A:  49
+C0RGB: [58.0259, 34.8172, 10.7163, 0]
+Calibration A: 71.5091
+Corrected Value A:  51
+C0RGB: [79.0031, 51.915, 18.7568, 0]
+Calibration A: 85.2744
+Corrected Value A:  46
+C0RGB: [92.5492, 71.5303, 47.9049, 0]
+Calibration A: 75.5964
+Corrected Value A:  61
+C0RGB: [71.289, 41.5915, 13.6295, 0]
+Calibration A: 82.0241
+Corrected Value A:  46
+C0RGB: [59.8646, 45.476, 50.8749, 0]
+Calibration A: 73.3029
+Corrected Value A:  50
+C0RGB: [60.3927, 43.7242, 33.7344, 0]
+Calibration A: 69.437
+Corrected Value A:  54
+C0RGB: [73.4956, 42.6168, 18.9395, 0]
+Calibration A: 70.7168
+Corrected Value A:  58
+C0RGB: [72.1436, 41.2944, 14.623, 0]
+Calibration A: 81.5884
+Corrected Value A:  47
+C0RGB: [73.1333, 42.8931, 14.2813, 0]
+Calibration A: 82.5557
+Corrected Value A:  46
+C0RGB: [72.7906, 44.0297, 14.5853, 0]
+Calibration A: 82.6522
+Corrected Value A:  46
+C0RGB: [73.233, 45.2063, 15.4405, 0]
+Calibration A: 82.9309
+Corrected Value A:  46
+C0RGB: [74.5624, 45.6893, 18.0514, 0]
+Calibration A: 83.6226
+Corrected Value A:  46
+C0RGB: [75.8033, 46.1707, 20.6299, 0]
+Calibration A: 84.162
+Corrected Value A:  46
+C0RGB: [76.3846, 46.731, 22.9829, 0]
+Calibration A: 84.4636
+Corrected Value A:  45
+C0RGB: [76.6097, 46.9675, 23.6024, 0]
+Calibration A: 84.5612
+Corrected Value A:  45
+C0RGB: [76.0744, 47.0137, 23.7623, 0]
+Calibration A: 84.4821
+Corrected Value A:  45
+C0RGB: [76.3759, 46.9303, 23.1059, 0]
+Calibration A: 84.583
+Corrected Value A:  45
+C0RGB: [76.4291, 47.0957, 23.6029, 0]
+Calibration A: 84.6443
+Corrected Value A:  45
+C0RGB: [76.3268, 47.0601, 23.3683, 0]
+Calibration A: 84.6042
+Corrected Value A:  45
+C0RGB: [76.3895, 47.0584, 23.7086, 0]
+Calibration A: 84.6346
+Corrected Value A:  45
+C0RGB: [76.4286, 47.0926, 23.6283, 0]
+Calibration A: 84.5991
+Corrected Value A:  45
+C0RGB: [77.3029, 47.7318, 24.2315, 0]
+Calibration A: 84.7002
+Corrected Value A:  46
+C0RGB: [77.1173, 47.7101, 24.5074, 0]
+Calibration A: 84.6895
+Corrected Value A:  46
+C0RGB: [77.2017, 47.7523, 24.1664, 0]
+Calibration A: 84.719
+Corrected Value A:  46
+C0RGB: [76.3186, 46.9548, 23.485, 0]
+Calibration A: 84.5784
+Corrected Value A:  45
+C0RGB: [76.465, 46.8239, 23.473, 0]
+Calibration A: 84.5765
+Corrected Value A:  45
+C0RGB: [76.5285, 47.06, 23.7746, 0]
+Calibration A: 84.6104
+Corrected Value A:  45
+C0RGB: [76.5275, 46.966, 23.4958, 0]
+Calibration A: 84.6313
+Corrected Value A:  45
+C0RGB: [76.5387, 47.0432, 23.4671, 0]
+Calibration A: 84.6274
+Corrected Value A:  45
+C0RGB: [77.2232, 47.7788, 23.9866, 0]
+Calibration A: 84.7051
+Corrected Value A:  46
+C0RGB: [76.522, 47.1362, 23.54, 0]
+Calibration A: 84.6866
+Corrected Value A:  45
+C0RGB: [76.3891, 47.0989, 23.6364, 0]
+Calibration A: 84.6331
+Corrected Value A:  45
+C0RGB: [76.4538, 47.0752, 23.818, 0]
+Calibration A: 84.6643
+Corrected Value A:  45
+C0RGB: [76.4832, 47.1257, 23.4372, 0]
+Calibration A: 84.6476
+Corrected Value A:  45
+C0RGB: [76.4526, 47.1276, 23.6672, 0]
+Calibration A: 84.6818
+Corrected Value A:  45
+C0RGB: [77.2374, 47.7708, 24.1923, 0]
+Calibration A: 84.7364
+Corrected Value A:  46
+C0RGB: [76.4458, 47.049, 23.4784, 0]
+Calibration A: 84.6393
+Corrected Value A:  45
+C0RGB: [77.2967, 47.8725, 24.2514, 0]
+Calibration A: 84.7849
+Corrected Value A:  46
+C0RGB: [77.2081, 47.9533, 24.2471, 0]
+Calibration A: 84.7412
+Corrected Value A:  46
+C0RGB: [76.3669, 47.0051, 23.4422, 0]
+Calibration A: 84.6404
+Corrected Value A:  45
+C0RGB: [76.3962, 47.0783, 23.3898, 0]
+Calibration A: 84.5978
+Corrected Value A:  45
+C0RGB: [76.525, 47.2328, 23.6464, 0]
+Calibration A: 84.6783
+Corrected Value A:  45
+C0RGB: [76.3765, 47.2356, 23.6177, 0]
+Calibration A: 84.6409
+Corrected Value A:  45
+C0RGB: [100.998, 76.583, 59.8647, 0]
+Calibration A: 70.1878
+Corrected Value A:  69
+C0RGB: [60.5093, 32.7508, 17.3578, 0]
+Calibration A: 75.7016
+Corrected Value A:  48
+C0RGB: [60.399, 32.8153, 17.5736, 0]
+Calibration A: 75.8301
+Corrected Value A:  48
+C0RGB: [60.6407, 32.7792, 17.4349, 0]
+Calibration A: 75.8631
+Corrected Value A:  48
+C0RGB: [60.4623, 32.8213, 17.6065, 0]
+Calibration A: 75.8078
+Corrected Value A:  48
+C0RGB: [60.6696, 32.8316, 17.4098, 0]
+Calibration A: 75.7973
+Corrected Value A:  48
+C0RGB: [60.5416, 32.7912, 17.3665, 0]
+Calibration A: 75.8033
+Corrected Value A:  48
+C0RGB: [60.5169, 32.8028, 17.5431, 0]
+Calibration A: 75.8239
+Corrected Value A:  48
+C0RGB: [60.4683, 32.7782, 17.4666, 0]
+Calibration A: 75.7672
+Corrected Value A:  48
+C0RGB: [60.4598, 32.8279, 17.5647, 0]
+Calibration A: 75.8026
+Corrected Value A:  48
+C0RGB: [60.7955, 32.836, 17.4976, 0]
+Calibration A: 75.8215
+Corrected Value A:  48
+C0RGB: [60.407, 32.8574, 17.4293, 0]
+Calibration A: 75.7875
+Corrected Value A:  48
+C0RGB: [60.5565, 32.8404, 17.6475, 0]
+Calibration A: 75.8828
+Corrected Value A:  48
+C0RGB: [60.7345, 32.8247, 17.7239, 0]
+Calibration A: 75.8972
+Corrected Value A:  48
+C0RGB: [60.7019, 32.8653, 17.7143, 0]
+Calibration A: 75.9047
+Corrected Value A:  48
+C0RGB: [60.609, 32.8389, 17.7041, 0]
+Calibration A: 75.8997
+Corrected Value A:  48
+C0RGB: [60.5146, 32.822, 17.7904, 0]
+Calibration A: 75.7667
+Corrected Value A:  48
+C0RGB: [60.4074, 32.8393, 17.6578, 0]
+Calibration A: 75.8648
+Corrected Value A:  48
+C0RGB: [60.7278, 32.8755, 17.6345, 0]
+Calibration A: 75.9072
+Corrected Value A:  48
+C0RGB: [60.7098, 32.8286, 17.8197, 0]
+Calibration A: 75.8799
+Corrected Value A:  48
+C0RGB: [60.7221, 32.8839, 17.819, 0]
+Calibration A: 75.9332
+Corrected Value A:  48
+C0RGB: [60.4738, 32.8576, 17.8524, 0]
+Calibration A: 75.8498
+Corrected Value A:  48
+C0RGB: [60.7275, 32.8601, 17.6416, 0]
+Calibration A: 75.9297
+Corrected Value A:  48
+C0RGB: [60.5722, 32.8334, 17.6086, 0]
+Calibration A: 75.7864
+Corrected Value A:  48
+C0RGB: [60.5659, 32.8253, 17.6086, 0]
+Calibration A: 75.7204
+Corrected Value A:  48
+C0RGB: [60.4602, 32.8665, 17.6203, 0]
+Calibration A: 75.8284
+Corrected Value A:  48
+C0RGB: [60.7158, 32.8497, 17.9168, 0]
+Calibration A: 75.8968
+Corrected Value A:  48
+C0RGB: [60.6982, 32.8567, 17.9266, 0]
+Calibration A: 75.8706
+Corrected Value A:  48
+C0RGB: [60.6829, 32.95, 17.7336, 0]
+Calibration A: 75.8581
+Corrected Value A:  48
+C0RGB: [60.5523, 32.872, 17.8166, 0]
+Calibration A: 75.8408
+Corrected Value A:  48
+C0RGB: [60.789, 32.8961, 17.7523, 0]
+Calibration A: 75.9103
+Corrected Value A:  48
+C0RGB: [60.7861, 32.873, 17.7752, 0]
+Calibration A: 75.9165
+Corrected Value A:  48
+C0RGB: [60.8548, 32.9204, 17.7388, 0]
+Calibration A: 75.914
+Corrected Value A:  48
+C0RGB: [60.6163, 32.8442, 17.9776, 0]
+Calibration A: 75.8772
+Corrected Value A:  48
+C0RGB: [60.4447, 32.8145, 17.4127, 0]
+Calibration A: 75.5277
+Corrected Value A:  48
+C0RGB: [60.4148, 32.8017, 17.7673, 0]
+Calibration A: 75.6007
+Corrected Value A:  48
+C0RGB: [60.5717, 32.8082, 17.6432, 0]
+Calibration A: 75.6529
+Corrected Value A:  48
+C0RGB: [60.2633, 32.7454, 17.626, 0]
+Calibration A: 75.5913
+Corrected Value A:  48
+C0RGB: [60.3906, 32.7742, 17.5681, 0]
+Calibration A: 75.6235
+Corrected Value A:  48
+C0RGB: [60.6064, 32.7926, 17.5061, 0]
+Calibration A: 75.6386
+Corrected Value A:  48
+C0RGB: [60.3715, 32.7616, 17.7032, 0]
+Calibration A: 75.601
+Corrected Value A:  48
+C0RGB: [60.537, 32.7335, 17.5762, 0]
+Calibration A: 71.7699
+Corrected Value A:  52
+C0RGB: [60.5603, 32.7064, 17.4756, 0]
+Calibration A: 64.4767
+Corrected Value A:  59
+C0RGB: [60.5265, 32.8047, 17.143, 0]
+Calibration A: 75.6324
+Corrected Value A:  48
+C0RGB: [59.9188, 32.554, 17.0173, 0]
+Calibration A: 75.1491
+Corrected Value A:  48
+C0RGB: [60.1536, 32.6462, 17.524, 0]
+Calibration A: 75.4057
+Corrected Value A:  48
+C0RGB: [60.3501, 32.6156, 17.6615, 0]
+Calibration A: 75.5529
+Corrected Value A:  48
+C0RGB: [60.6138, 32.5815, 17.5744, 0]
+Calibration A: 75.6517
+Corrected Value A:  48
+C0RGB: [147.704, 108.601, 82.4927, 0]
+Calibration A: 82.243
+Corrected Value A:  76
+C0RGB: [64.3611, 39.5043, 17.5445, 0]
+Calibration A: 79.0483
+Corrected Value A:  46
+C0RGB: [67.3052, 39.649, 20.3313, 0]
+Calibration A: 80.8396
+Corrected Value A:  46
+C0RGB: [68.2623, 39.5437, 21.7541, 0]
+Calibration A: 81.5091
+Corrected Value A:  45
+C0RGB: [68.3941, 39.597, 21.5972, 0]
+Calibration A: 81.4823
+Corrected Value A:  45
+C0RGB: [127.984, 105.723, 108.367, 0]
+Calibration A: 51.0028
+Corrected Value A:  99
+C0RGB: [23.773, 31.682, 23.5539, 0]
+Calibration A: 64.6074
+Corrected Value A:  48
+C0RGB: [31.9862, 31.9187, 24.0731, 0]
+Calibration A: 63.9582
+Corrected Value A:  49
+C0RGB: [31.7518, 32.0134, 25.3243, 0]
+Calibration A: 64.6874
+Corrected Value A:  48
+C0RGB: [26.924, 33.937, 24.3906, 0]
+Calibration A: 65.1061
+Corrected Value A:  48
+C0RGB: [29.947, 32.289, 24.9333, 0]
+Calibration A: 65.2788
+Corrected Value A:  47
+C0RGB: [29.8711, 32.1592, 25.181, 0]
+Calibration A: 65.3442
+Corrected Value A:  47
+C0RGB: [30.9884, 31.8517, 25.1972, 0]
+Calibration A: 65.2169
+Corrected Value A:  47
+C0RGB: [25.798, 33.6155, 24.0119, 0]
+Calibration A: 64.4774
+Corrected Value A:  49
+C0RGB: [25.9278, 33.8071, 24.0055, 0]
+Calibration A: 64.6563
+Corrected Value A:  49
+C0RGB: [26.839, 33.8579, 24.4033, 0]
+Calibration A: 65.3263
+Corrected Value A:  48
+C0RGB: [28.4232, 32.4141, 25.3248, 0]
+Calibration A: 65.1952
+Corrected Value A:  48
+C0RGB: [27.7174, 32.6261, 24.8716, 0]
+Calibration A: 64.8847
+Corrected Value A:  48
+C0RGB: [27.0718, 32.6716, 24.7047, 0]
+Calibration A: 65.169
+Corrected Value A:  48
+C0RGB: [27.584, 32.5303, 25.8114, 0]
+Calibration A: 65.6035
+Corrected Value A:  47
+C0RGB: [30.2376, 32.696, 23.3124, 0]
+Calibration A: 65.3039
+Corrected Value A:  48
+C0RGB: [30.3938, 32.4996, 23.8563, 0]
+Calibration A: 66.1191
+Corrected Value A:  47
+C0RGB: [65.7938, 36.5221, 16.8511, 0]
+Calibration A: 80.8388
+Corrected Value A:  45
+C0RGB: [68.724, 40.1835, 22.8591, 0]
+Calibration A: 81.559
+Corrected Value A:  45
+C0RGB: [68.2225, 39.4722, 22.0961, 0]
+Calibration A: 81.4628
+Corrected Value A:  45
+C0RGB: [68.268, 39.8052, 21.6928, 0]
+Calibration A: 81.1841
+Corrected Value A:  46
+C0RGB: [68.7352, 39.7716, 21.9192, 0]
+Calibration A: 81.3445
+Corrected Value A:  46
+C0RGB: [68.4823, 39.7899, 21.7674, 0]
+Calibration A: 81.2825
+Corrected Value A:  46
+C0RGB: [68.5415, 39.8505, 21.6798, 0]
+Calibration A: 81.3338
+Corrected Value A:  46
+C0RGB: [68.701, 39.9107, 21.844, 0]
+Calibration A: 81.3706
+Corrected Value A:  46
+C0RGB: [68.4451, 39.8457, 21.591, 0]
+Calibration A: 81.2136
+Corrected Value A:  46
+C0RGB: [68.6291, 39.8351, 21.7163, 0]
+Calibration A: 81.3802
+Corrected Value A:  46
+C0RGB: [68.7529, 39.8318, 21.7434, 0]
+Calibration A: 81.3715
+Corrected Value A:  46
+C0RGB: [68.5579, 39.8614, 21.7799, 0]
+Calibration A: 81.3702
+Corrected Value A:  46
+C0RGB: [68.5545, 39.8104, 21.9169, 0]
+Calibration A: 81.345
+Corrected Value A:  46
+C0RGB: [68.5174, 39.8439, 21.6046, 0]
+Calibration A: 81.3987
+Corrected Value A:  45
+C0RGB: [67.6896, 39.1691, 21.0024, 0]
+Calibration A: 81.1001
+Corrected Value A:  45
+C0RGB: [68.5709, 39.8189, 21.3519, 0]
+Calibration A: 81.3581
+Corrected Value A:  46
+C0RGB: [68.5029, 39.8707, 21.7221, 0]
+Calibration A: 81.3514
+Corrected Value A:  46
+C0RGB: [105.535, 75.6479, 30.0601, 0]
+Calibration A: 74.4272
+Corrected Value A:  67
+C0RGB: [113.466, 76.0598, 48.42, 0]
+Calibration A: 79.2732
+Corrected Value A:  65
+C0RGB: [113.044, 76.1111, 47.9999, 0]
+Calibration A: 79.1679
+Corrected Value A:  65
+C0RGB: [105.548, 70.3412, 42.3699, 0]
+Calibration A: 76.068
+Corrected Value A:  65
+C0RGB: [113.16, 76.2805, 48.4337, 0]
+Calibration A: 79.1467
+Corrected Value A:  65
+C0RGB: [112.763, 75.6838, 47.6647, 0]
+Calibration A: 79.175
+Corrected Value A:  65
+C0RGB: [112.092, 75.5741, 46.9714, 0]
+Calibration A: 78.6441
+Corrected Value A:  65
+C0RGB: [112.216, 75.5931, 46.9495, 0]
+Calibration A: 78.7413
+Corrected Value A:  65
+C0RGB: [112.183, 75.515, 46.9634, 0]
+Calibration A: 78.6894
+Corrected Value A:  65
+C0RGB: [112.367, 75.6088, 47.2945, 0]
+Calibration A: 78.7749
+Corrected Value A:  65
+C0RGB: [112.263, 75.5752, 47.1508, 0]
+Calibration A: 78.798
+Corrected Value A:  65
+C0RGB: [112.221, 75.5228, 46.64, 0]
+Calibration A: 78.688
+Corrected Value A:  65
+C0RGB: [112.336, 75.3524, 46.623, 0]
+Calibration A: 78.6889
+Corrected Value A:  65
+C0RGB: [112.229, 75.2746, 46.3063, 0]
+Calibration A: 78.5687
+Corrected Value A:  65
+C0RGB: [112.312, 75.199, 46.3706, 0]
+Calibration A: 78.5644
+Corrected Value A:  65
+C0RGB: [111.932, 75.0955, 45.8851, 0]
+Calibration A: 78.4336
+Corrected Value A:  65
+C0RGB: [111.932, 75.098, 46.1611, 0]
+Calibration A: 78.3175
+Corrected Value A:  66
+C0RGB: [111.688, 74.8308, 45.9416, 0]
+Calibration A: 78.2048
+Corrected Value A:  66
+C0RGB: [104.231, 69.0088, 40.6312, 0]
+Calibration A: 75.116
+Corrected Value A:  66
+C0RGB: [113.381, 76.6662, 47.3167, 0]
+Calibration A: 79.0653
+Corrected Value A:  65
+C0RGB: [113.691, 76.3999, 47.3265, 0]
+Calibration A: 79.1198
+Corrected Value A:  65
+C0RGB: [113.983, 76.4486, 47.1015, 0]
+Calibration A: 79.2482
+Corrected Value A:  65
+C0RGB: [113.839, 76.553, 47.3914, 0]
+Calibration A: 79.2478
+Corrected Value A:  65
+C0RGB: [114.035, 76.5252, 47.7373, 0]
+Calibration A: 79.3098
+Corrected Value A:  65
+C0RGB: [114.017, 76.5589, 47.5968, 0]
+Calibration A: 79.2896
+Corrected Value A:  65
+C0RGB: [114.011, 76.5529, 47.7242, 0]
+Calibration A: 79.2611
+Corrected Value A:  65
+C0RGB: [113.989, 76.5467, 47.6062, 0]
+Calibration A: 79.2834
+Corrected Value A:  65
+C0RGB: [114.048, 76.5703, 47.9745, 0]
+Calibration A: 79.3892
+Corrected Value A:  65
+C0RGB: [113.998, 76.5403, 47.667, 0]
+Calibration A: 79.2466
+Corrected Value A:  65
+C0RGB: [113.993, 76.5039, 47.8728, 0]
+Calibration A: 79.2358
+Corrected Value A:  65
+C0RGB: [113.844, 76.4887, 47.6846, 0]
+Calibration A: 79.2283
+Corrected Value A:  65
+C0RGB: [113.936, 76.5279, 47.4432, 0]
+Calibration A: 79.1907
+Corrected Value A:  65
+C0RGB: [113.946, 76.5131, 47.6369, 0]
+Calibration A: 79.231
+Corrected Value A:  65
+C0RGB: [113.919, 76.5038, 47.5646, 0]
+Calibration A: 79.212
+Corrected Value A:  65
+C0RGB: [113.893, 76.4931, 47.5886, 0]
+Calibration A: 79.3044
+Corrected Value A:  65
+C0RGB: [113.659, 76.3499, 47.4439, 0]
+Calibration A: 78.9944
+Corrected Value A:  66
+C0RGB: [113.708, 76.2997, 47.3477, 0]
+Calibration A: 79.2131
+Corrected Value A:  65
+C0RGB: [113.676, 76.3619, 47.4182, 0]
+Calibration A: 79.1711
+Corrected Value A:  65
+C0RGB: [113.804, 76.2981, 47.5278, 0]
+Calibration A: 79.3214
+Corrected Value A:  65
+C0RGB: [113.355, 76.2608, 47.1905, 0]
+Calibration A: 78.9624
+Corrected Value A:  65
+C0RGB: [113.629, 76.3672, 47.2807, 0]
+Calibration A: 79.1673
+Corrected Value A:  65
+C0RGB: [113.52, 76.3552, 47.5219, 0]
+Calibration A: 79.1353
+Corrected Value A:  65
+C0RGB: [113.709, 76.377, 47.7804, 0]
+Calibration A: 79.1738
+Corrected Value A:  65
+C0RGB: [113.939, 76.3659, 47.9933, 0]
+Calibration A: 79.3693
+Corrected Value A:  65
+C0RGB: [113.667, 76.299, 47.4097, 0]
+Calibration A: 79.1943
+Corrected Value A:  65
+C0RGB: [113.67, 76.3154, 47.3099, 0]
+Calibration A: 79.1581
+Corrected Value A:  65
+C0RGB: [113.529, 76.307, 47.6309, 0]
+Calibration A: 79.1279
+Corrected Value A:  65
+C0RGB: [113.63, 76.3309, 47.4512, 0]
+Calibration A: 79.2294
+Corrected Value A:  65
+C0RGB: [113.732, 76.3372, 47.8448, 0]
+Calibration A: 79.1535
+Corrected Value A:  65
+C0RGB: [113.928, 76.443, 47.6604, 0]
+Calibration A: 79.2803
+Corrected Value A:  65
+C0RGB: [113.704, 76.3591, 47.5157, 0]
+Calibration A: 79.257
+Corrected Value A:  65
+C0RGB: [113.728, 76.3872, 47.2646, 0]
+Calibration A: 79.1828
+Corrected Value A:  65
+C0RGB: [113.637, 76.3327, 47.6808, 0]
+Calibration A: 79.1659
+Corrected Value A:  65
+C0RGB: [113.424, 76.3821, 47.6052, 0]
+Calibration A: 79.1191
+Corrected Value A:  65
+C0RGB: [113.861, 76.3932, 48.1871, 0]
+Calibration A: 79.2354
+Corrected Value A:  65
+C0RGB: [113.687, 76.3859, 47.8844, 0]
+Calibration A: 79.2368
+Corrected Value A:  65
+C0RGB: [114.04, 76.4716, 47.6634, 0]
+Calibration A: 79.3985
+Corrected Value A:  65
+C0RGB: [113.837, 76.3921, 47.6827, 0]
+Calibration A: 79.3572
+Corrected Value A:  65
+C0RGB: [113.69, 76.4811, 47.7311, 0]
+Calibration A: 79.3551
+Corrected Value A:  65
+C0RGB: [113.765, 76.4933, 47.6908, 0]
+Calibration A: 79.3287
+Corrected Value A:  65
+C0RGB: [113.658, 76.4558, 47.8327, 0]
+Calibration A: 79.3409
+Corrected Value A:  65
+C0RGB: [113.96, 76.486, 47.6719, 0]
+Calibration A: 79.413
+Corrected Value A:  65
+C0RGB: [113.681, 76.444, 47.8014, 0]
+Calibration A: 79.3752
+Corrected Value A:  65
+C0RGB: [113.854, 76.4637, 47.6663, 0]
+Calibration A: 79.3557
+Corrected Value A:  65
+C0RGB: [113.83, 76.5442, 48.1419, 0]
+Calibration A: 79.3886
+Corrected Value A:  65
+C0RGB: [113.524, 76.5175, 47.3478, 0]
+Calibration A: 79.3007
+Corrected Value A:  65
+C0RGB: [113.81, 76.6099, 48.2968, 0]
+Calibration A: 79.492
+Corrected Value A:  65
+C0RGB: [113.855, 76.762, 48.4535, 0]
+Calibration A: 79.4831
+Corrected Value A:  65
+C0RGB: [60.323, 36.9201, 13.5351, 0]
+Calibration A: 78.0813
+Corrected Value A:  46
+C0RGB: [63.2429, 38.0403, 16.8178, 0]
+Calibration A: 80.4295
+Corrected Value A:  44
+C0RGB: [66.4592, 39.0438, 21.0198, 0]
+Calibration A: 82.4439
+Corrected Value A:  44
+C0RGB: [67.1013, 39.0841, 22.3778, 0]
+Calibration A: 82.8617
+Corrected Value A:  43
+C0RGB: [67.1971, 39.1182, 22.4325, 0]
+Calibration A: 82.9893
+Corrected Value A:  43
+C0RGB: [67.3342, 39.1538, 22.0793, 0]
+Calibration A: 82.9392
+Corrected Value A:  43
+C0RGB: [67.3455, 39.1282, 22.1766, 0]
+Calibration A: 82.9928
+Corrected Value A:  43
+C0RGB: [67.456, 39.2927, 22.3992, 0]
+Calibration A: 83.0037
+Corrected Value A:  43
+C0RGB: [67.2877, 39.1333, 21.9599, 0]
+Calibration A: 82.8398
+Corrected Value A:  44
+C0RGB: [67.4545, 39.2357, 22.4226, 0]
+Calibration A: 83.0434
+Corrected Value A:  43
+C0RGB: [67.3993, 39.2136, 22.6294, 0]
+Calibration A: 83.0096
+Corrected Value A:  43
+C0RGB: [67.1313, 39.0974, 22.3018, 0]
+Calibration A: 82.9037
+Corrected Value A:  43
+C0RGB: [67.3689, 39.1639, 22.3662, 0]
+Calibration A: 83.023
+Corrected Value A:  43
+C0RGB: [67.0573, 39.1784, 21.9762, 0]
+Calibration A: 82.8974
+Corrected Value A:  43
+C0RGB: [67.2856, 39.1571, 22.1478, 0]
+Calibration A: 82.9157
+Corrected Value A:  43
+C0RGB: [67.2893, 39.2184, 21.942, 0]
+Calibration A: 82.9011
+Corrected Value A:  43
+C0RGB: [67.2971, 39.1255, 22.0374, 0]
+Calibration A: 82.9284
+Corrected Value A:  43
+C0RGB: [67.3189, 39.1074, 22.2962, 0]
+Calibration A: 82.8872
+Corrected Value A:  44
+C0RGB: [67.2246, 39.1096, 22.0705, 0]
+Calibration A: 82.8965
+Corrected Value A:  43
+C0RGB: [67.2771, 39.0515, 22.0543, 0]
+Calibration A: 82.926
+Corrected Value A:  43
+C0RGB: [67.3138, 39.2114, 22.2059, 0]
+Calibration A: 82.922
+Corrected Value A:  43
+C0RGB: [67.2264, 39.0507, 22.0825, 0]
+Calibration A: 82.9063
+Corrected Value A:  43
+C0RGB: [67.0372, 39.2645, 21.9781, 0]
+Calibration A: 82.837
+Corrected Value A:  43
+C0RGB: [67.3556, 39.195, 22.3363, 0]
+Calibration A: 82.9138
+Corrected Value A:  44
+C0RGB: [67.1021, 39.0862, 22.2066, 0]
+Calibration A: 82.9801
+Corrected Value A:  43
+C0RGB: [67.1629, 39.1085, 21.7697, 0]
+Calibration A: 82.9769
+Corrected Value A:  43
+C0RGB: [67.213, 39.2045, 22.1733, 0]
+Calibration A: 83.0266
+Corrected Value A:  43
+C0RGB: [67.1977, 39.2115, 22.3616, 0]
+Calibration A: 82.9762
+Corrected Value A:  43
+C0RGB: [67.342, 39.2686, 22.231, 0]
+Calibration A: 83.0126
+Corrected Value A:  43
+C0RGB: [67.2432, 39.1757, 21.949, 0]
+Calibration A: 83.0448
+Corrected Value A:  43
+C0RGB: [67.3406, 39.3357, 21.91, 0]
+Calibration A: 83.005
+Corrected Value A:  43
+C0RGB: [67.307, 39.1514, 22.2117, 0]
+Calibration A: 83.0473
+Corrected Value A:  43
+C0RGB: [67.0828, 39.1926, 21.8574, 0]
+Calibration A: 82.9277
+Corrected Value A:  43
+C0RGB: [67.2083, 39.1631, 21.8871, 0]
+Calibration A: 82.9906
+Corrected Value A:  43
+C0RGB: [67.4631, 39.2609, 22.4144, 0]
+Calibration A: 82.9916
+Corrected Value A:  43
+C0RGB: [67.2429, 39.2628, 22.0404, 0]
+Calibration A: 82.9574
+Corrected Value A:  43
+C0RGB: [67.3538, 39.2256, 22.0487, 0]
+Calibration A: 82.9873
+Corrected Value A:  43
+C0RGB: [67.318, 39.2421, 22.4981, 0]
+Calibration A: 83.0092
+Corrected Value A:  43
+C0RGB: [67.4692, 39.2555, 22.5852, 0]
+Calibration A: 83.0916
+Corrected Value A:  43
+C0RGB: [67.2779, 39.239, 22.2261, 0]
+Calibration A: 82.9892
+Corrected Value A:  43
+C0RGB: [172.831, 122.493, 71.7171, 0]
+Calibration A: 92.1735
+Corrected Value A:  76
+C0RGB: [95.0299, 62.9058, 15.8937, 0]
+Calibration A: 66.9653
+Corrected Value A:  70
+C0RGB: [98.8453, 64.3386, 26.5774, 0]
+Calibration A: 69.3182
+Corrected Value A:  69
+C0RGB: [101.868, 65.57, 35.5305, 0]
+Calibration A: 71.1787
+Corrected Value A:  69
+C0RGB: [102.921, 65.6482, 37.9824, 0]
+Calibration A: 71.7433
+Corrected Value A:  69
+C0RGB: [102.875, 65.6986, 37.4906, 0]
+Calibration A: 71.7508
+Corrected Value A:  69
+C0RGB: [103.104, 65.6932, 37.4306, 0]
+Calibration A: 71.8147
+Corrected Value A:  69
+C0RGB: [103.054, 65.6708, 37.3621, 0]
+Calibration A: 71.8243
+Corrected Value A:  69
+C0RGB: [102.964, 65.6832, 37.6231, 0]
+Calibration A: 71.7959
+Corrected Value A:  69
+C0RGB: [103.049, 65.6207, 37.678, 0]
+Calibration A: 71.8063
+Corrected Value A:  69
+C0RGB: [103.065, 65.5862, 37.7325, 0]
+Calibration A: 71.8023
+Corrected Value A:  69
+C0RGB: [102.902, 65.5593, 37.185, 0]
+Calibration A: 71.8269
+Corrected Value A:  69
+C0RGB: [102.902, 65.6048, 36.9074, 0]
+Calibration A: 71.7708
+Corrected Value A:  69
+C0RGB: [102.882, 65.5601, 36.8539, 0]
+Calibration A: 71.7521
+Corrected Value A:  69
+C0RGB: [102.783, 65.5945, 36.8911, 0]
+Calibration A: 71.7104
+Corrected Value A:  69
+C0RGB: [102.814, 65.5643, 36.8915, 0]
+Calibration A: 71.7125
+Corrected Value A:  69
+C0RGB: [102.892, 65.6372, 37.6296, 0]
+Calibration A: 71.7447
+Corrected Value A:  69
+C0RGB: [103.167, 65.852, 38.0329, 0]
+Calibration A: 71.9266
+Corrected Value A:  69
+C0RGB: [103.127, 65.7595, 37.7912, 0]
+Calibration A: 71.9461
+Corrected Value A:  68
+C0RGB: [103.065, 65.7714, 38.4329, 0]
+Calibration A: 71.9243
+Corrected Value A:  68
+C0RGB: [103.091, 65.7942, 38.2997, 0]
+Calibration A: 71.929
+Corrected Value A:  68
+C0RGB: [103.062, 65.788, 38.3955, 0]
+Calibration A: 71.8998
+Corrected Value A:  69
+C0RGB: [103.061, 65.8008, 38.1623, 0]
+Calibration A: 71.9189
+Corrected Value A:  68
+C0RGB: [48.426, 26.4671, 13.0637, 0]
+Calibration A: 65.6599
+Corrected Value A:  53
+C0RGB: [50.6898, 27.475, 15.1523, 0]
+Calibration A: 66.557
+Corrected Value A:  53
+C0RGB: [50.6261, 26.3525, 14.6995, 0]
+Calibration A: 67.6403
+Corrected Value A:  52
+C0RGB: [50.1631, 25.8113, 13.9827, 0]
+Calibration A: 67.5375
+Corrected Value A:  52
+C0RGB: [50.4043, 26.387, 14.0711, 0]
+Calibration A: 67.7234
+Corrected Value A:  52
+C0RGB: [52.0901, 27.3341, 15.2331, 0]
+Calibration A: 67.7389
+Corrected Value A:  53
+C0RGB: [51.0767, 26.6005, 14.3936, 0]
+Calibration A: 67.4537
+Corrected Value A:  53
+C0RGB: [90.2485, 58.2315, 19.4506, 0]
+Calibration A: 62.1793
+Corrected Value A:  73
+C0RGB: [91.3527, 58.3696, 23.5152, 0]
+Calibration A: 63.1155
+Corrected Value A:  73
+C0RGB: [93.1773, 59.0769, 28.8366, 0]
+Calibration A: 64.3756
+Corrected Value A:  72
+C0RGB: [94.8832, 59.703, 33.3083, 0]
+Calibration A: 65.488
+Corrected Value A:  72
+C0RGB: [96.526, 59.6436, 33.9033, 0]
+Calibration A: 66.4972
+Corrected Value A:  71
+C0RGB: [96.6078, 59.6495, 33.4883, 0]
+Calibration A: 66.591
+Corrected Value A:  71
+C0RGB: [97.1232, 59.964, 33.8812, 0]
+Calibration A: 66.5669
+Corrected Value A:  72
+C0RGB: [96.4438, 59.5136, 33.3478, 0]
+Calibration A: 66.1847
+Corrected Value A:  72
+C0RGB: [96.1623, 59.1158, 33.1972, 0]
+Calibration A: 66.2076
+Corrected Value A:  72
+C0RGB: [95.8989, 59.0915, 33.3049, 0]
+Calibration A: 66.1799
+Corrected Value A:  71
+C0RGB: [96.061, 59.156, 33.114, 0]
+Calibration A: 65.3599
+Corrected Value A:  72
+C0RGB: [96.1412, 59.1285, 33.0121, 0]
+Calibration A: 66.1824
+Corrected Value A:  72
+C0RGB: [96.0233, 59.1694, 32.8116, 0]
+Calibration A: 66.1895
+Corrected Value A:  71
+C0RGB: [96.1668, 59.1198, 33.0014, 0]
+Calibration A: 66.2055
+Corrected Value A:  72
+C0RGB: [96.0608, 59.118, 33.0954, 0]
+Calibration A: 66.1723
+Corrected Value A:  71
+C0RGB: [95.9755, 59.1332, 32.9995, 0]
+Calibration A: 66.1412
+Corrected Value A:  71
+C0RGB: [96.0143, 59.1726, 33.1701, 0]
+Calibration A: 66.1959
+Corrected Value A:  71
+C0RGB: [96.046, 59.169, 33.0414, 0]
+Calibration A: 66.1971
+Corrected Value A:  71
+C0RGB: [96.2696, 59.1624, 33.1409, 0]
+Calibration A: 66.2787
+Corrected Value A:  71
+C0RGB: [96.0855, 59.1695, 33.222, 0]
+Calibration A: 66.2125
+Corrected Value A:  71
+C0RGB: [96.0101, 59.174, 33.2527, 0]
+Calibration A: 66.2411
+Corrected Value A:  71
+C0RGB: [96.0102, 59.0259, 33.02, 0]
+Calibration A: 66.325
+Corrected Value A:  71
+C0RGB: [103.952, 66.5483, 40.6038, 0]
+Calibration A: 66.1829
+Corrected Value A:  75
+C0RGB: [104.832, 69.7193, 45.0041, 0]
+Calibration A: 74.8313
+Corrected Value A:  66
+C0RGB: [104.474, 69.6322, 44.6642, 0]
+Calibration A: 74.6292
+Corrected Value A:  66
+C0RGB: [104.422, 69.6971, 44.6181, 0]
+Calibration A: 74.6112
+Corrected Value A:  66
+C0RGB: [104.386, 69.6669, 44.4948, 0]
+Calibration A: 74.5808
+Corrected Value A:  66
+C0RGB: [104.368, 69.6921, 44.5031, 0]
+Calibration A: 74.5846
+Corrected Value A:  66
+C0RGB: [104.497, 69.6494, 44.6559, 0]
+Calibration A: 74.6221
+Corrected Value A:  66
+C0RGB: [104.5, 69.6921, 44.5491, 0]
+Calibration A: 74.6591
+Corrected Value A:  66
+C0RGB: [104.356, 69.7253, 44.5948, 0]
+Calibration A: 74.5553
+Corrected Value A:  66
+C0RGB: [104.677, 69.6598, 44.8042, 0]
+Calibration A: 74.7625
+Corrected Value A:  66
+C0RGB: [104.335, 69.6872, 44.5576, 0]
+Calibration A: 74.64
+Corrected Value A:  66
+C0RGB: [104.392, 69.701, 44.6688, 0]
+Calibration A: 74.5715
+Corrected Value A:  66
+C0RGB: [104.601, 69.6883, 44.8863, 0]
+Calibration A: 74.7732
+Corrected Value A:  66
+C0RGB: [104.502, 69.6284, 44.782, 0]
+Calibration A: 74.6446
+Corrected Value A:  66
+C0RGB: [104.45, 69.6968, 44.4337, 0]
+Calibration A: 74.6284
+Corrected Value A:  66
+C0RGB: [104.611, 69.611, 44.8714, 0]
+Calibration A: 74.7294
+Corrected Value A:  66
+C0RGB: [104.59, 69.7198, 45.3251, 0]
+Calibration A: 74.7304
+Corrected Value A:  66
+C0RGB: [104.708, 69.6309, 45.2515, 0]
+Calibration A: 74.7455
+Corrected Value A:  66
+C0RGB: [136.468, 93.6483, 42.498, 0]
+Calibration A: 86.8084
+Corrected Value A:  67
+C0RGB: [86.7218, 55.3495, 10.065, 0]
+Calibration A: 61.7314
+Corrected Value A:  72
+C0RGB: [86.378, 56.4399, 12.0597, 0]
+Calibration A: 62.6593
+Corrected Value A:  71
+C0RGB: [86.3928, 57.7072, 15.8155, 0]
+Calibration A: 63.0543
+Corrected Value A:  71
+C0RGB: [87.6984, 58.2246, 18.3351, 0]
+Calibration A: 63.8078
+Corrected Value A:  71
+C0RGB: [89.1845, 58.7517, 22.127, 0]
+Calibration A: 64.7451
+Corrected Value A:  70
+C0RGB: [90.4746, 59.1985, 26.2869, 0]
+Calibration A: 65.6163
+Corrected Value A:  70
+C0RGB: [92.0446, 60.0606, 30.5815, 0]
+Calibration A: 66.5442
+Corrected Value A:  70
+C0RGB: [92.4915, 60.6787, 33.083, 0]
+Calibration A: 66.6603
+Corrected Value A:  70
+C0RGB: [91.9206, 60.2838, 31.5669, 0]
+Calibration A: 66.5045
+Corrected Value A:  70
+C0RGB: [92.6842, 61.0465, 32.5824, 0]
+Calibration A: 66.5641
+Corrected Value A:  70
+C0RGB: [92.0307, 60.2929, 31.6639, 0]
+Calibration A: 66.5075
+Corrected Value A:  70
+C0RGB: [92.101, 60.2681, 31.6508, 0]
+Calibration A: 66.5675
+Corrected Value A:  70
+Calibration A: 48.6881
+Corrected Value A:  87
+Calibration A: 51.1136
+Corrected Value A:  85
+C0RGB: [227.211, 218.007, 180.286, 0]
+Calibration A: 87.6619
+Corrected Value A:  101
+C0RGB: [140.816, 95.7552, 25.616, 0]
+Calibration A: 84.1366
+Corrected Value A:  71
+C0RGB: [91.3866, 58.6626, 10.0153, 0]
+Calibration A: 61.0971
+Corrected Value A:  75
+C0RGB: [87.3218, 55.3797, 10.4402, 0]
+Calibration A: 59.4374
+Corrected Value A:  75
+C0RGB: [87.9199, 56.6419, 12.308, 0]
+Calibration A: 60.4805
+Corrected Value A:  74
+C0RGB: [88.9498, 57.1125, 16.3767, 0]
+Calibration A: 61.802
+Corrected Value A:  73
+C0RGB: [90.4923, 57.6988, 20.5435, 0]
+Calibration A: 62.7572
+Corrected Value A:  73
+C0RGB: [92.0987, 58.2853, 25.3594, 0]
+Calibration A: 63.8364
+Corrected Value A:  72
+C0RGB: [94.1498, 59.4569, 30.3299, 0]
+Calibration A: 64.8812
+Corrected Value A:  72
+C0RGB: [94.8576, 59.7208, 33.7193, 0]
+Calibration A: 65.7195
+Corrected Value A:  71
+C0RGB: [95.1355, 59.5461, 32.1825, 0]
+Calibration A: 65.8382
+Corrected Value A:  71
+C0RGB: [95.6418, 59.921, 32.1095, 0]
+Calibration A: 65.8307
+Corrected Value A:  72
+C0RGB: [95.4725, 59.958, 32.3503, 0]
+Calibration A: 65.8707
+Corrected Value A:  72
+C0RGB: [95.2466, 59.6209, 32.5465, 0]
+Calibration A: 65.7409
+Corrected Value A:  72
+C0RGB: [95.5027, 59.9554, 32.5455, 0]
+Calibration A: 65.7425
+Corrected Value A:  72
+C0RGB: [95.0151, 59.581, 32.4853, 0]
+Calibration A: 65.7557
+Corrected Value A:  72
+C0RGB: [95.3976, 59.9305, 32.6535, 0]
+Calibration A: 65.7285
+Corrected Value A:  72
+C0RGB: [94.9172, 59.5645, 32.1938, 0]
+Calibration A: 65.7539
+Corrected Value A:  71
+C0RGB: [95.5878, 59.8799, 32.5247, 0]
+Calibration A: 65.6869
+Corrected Value A:  72
+C0RGB: [95.0437, 59.4932, 32.0048, 0]
+Calibration A: 65.6521
+Corrected Value A:  72
+C0RGB: [95.7322, 59.9174, 32.4178, 0]
+Calibration A: 65.6848
+Corrected Value A:  72
+C0RGB: [94.6972, 59.0573, 32.0048, 0]
+Calibration A: 65.3289
+Corrected Value A:  72
+C0RGB: [94.6293, 59.0263, 31.0022, 0]
+Calibration A: 65.2706
+Corrected Value A:  72
+C0RGB: [94.6998, 59.0995, 31.731, 0]
+Calibration A: 65.2016
+Corrected Value A:  72
+C0RGB: [95.1407, 59.4776, 31.9342, 0]
+Calibration A: 65.2096
+Corrected Value A:  72
+C0RGB: [95.402, 59.6261, 32.3466, 0]
+Calibration A: 65.6194
+Corrected Value A:  72
+C0RGB: [94.8806, 59.2461, 31.686, 0]
+Calibration A: 65.5806
+Corrected Value A:  72
+C0RGB: [94.9372, 59.2139, 31.7109, 0]
+Calibration A: 65.5851
+Corrected Value A:  72
+C0RGB: [95.3112, 59.5809, 32.0303, 0]
+Calibration A: 65.5799
+Corrected Value A:  72
+C0RGB: [94.9686, 59.2298, 31.5523, 0]
+Calibration A: 65.5836
+Corrected Value A:  72
+C0RGB: [95.368, 59.6118, 32.0849, 0]
+Calibration A: 65.6205
+Corrected Value A:  72
+C0RGB: [94.9008, 59.2391, 31.9208, 0]
+Calibration A: 65.6264
+Corrected Value A:  72
+C0RGB: [95.0407, 59.5582, 32.5602, 0]
+Calibration A: 65.5968
+Corrected Value A:  72
+C0RGB: [94.8181, 59.1938, 31.7296, 0]
+Calibration A: 65.5954
+Corrected Value A:  72
+C0RGB: [94.645, 59.2278, 31.364, 0]
+Calibration A: 65.5491
+Corrected Value A:  72
+C0RGB: [94.8855, 59.2432, 32.0523, 0]
+Calibration A: 65.6246
+Corrected Value A:  72
+C0RGB: [95.373, 59.6128, 32.1499, 0]
+Calibration A: 65.5868
+Corrected Value A:  72
+C0RGB: [95.3789, 59.6042, 32.3327, 0]
+Calibration A: 65.6087
+Corrected Value A:  72
+
+C0RGB: [90.8827, 51.1722, 5.71857, 0]
+Calibration A: 60.8012
+Corrected Value A:  75
+C0RGB: [96.302, 60.3691, 33.9271, 0]
+Calibration A: 65.9066
+Corrected Value A:  72
+C0RGB: [88.2036, 57.3239, 15.2744, 0]
+Calibration A: 64.0252
+Corrected Value A:  71
+C0RGB: [211.808, 165.81, 92.6604, 0]
+Calibration A: 93.2834
+Corrected Value A:  90
+C0RGB: [55.6125, 29.4134, 14.0353, 0]
+Calibration A: 73.117
+Corrected Value A:  49
+C0RGB: [53.7938, 28.4493, 15.3141, 0]
+Calibration A: 71.1908
+Corrected Value A:  50
+C0RGB: [52.2247, 27.2059, 14.1923, 0]
+Calibration A: 70.6454
+Corrected Value A:  50
+C0RGB: [52.1136, 27.2389, 13.9354, 0]
+Calibration A: 70.6393
+Corrected Value A:  50
+C0RGB: [84.3861, 56.3076, 16.4607, 0]
+Calibration A: 61.481
+Corrected Value A:  72
+C0RGB: [91.0955, 59.6449, 33.2165, 0]
+Calibration A: 65.8438
+Corrected Value A:  70
+C0RGB: [91.3453, 59.6611, 33.7403, 0]
+Calibration A: 66.0733
+Corrected Value A:  70
+C0RGB: [46.8544, 25.4746, 6.91524, 0]
+Calibration A: 65.4531
+Corrected Value A:  53
+C0RGB: [52.7898, 27.4917, 14.2317, 0]
+Calibration A: 69.9705
+Corrected Value A:  51
+C0RGB: [53.5298, 27.9894, 14.9904, 0]
+Calibration A: 70.1603
+Corrected Value A:  51
+C0RGB: [54.0448, 33.1337, 9.07216, 0]
+Calibration A: 65.7141
+Corrected Value A:  55
+
+C0RGB: [64.199, 36.6132, 13.1633, 0]
+Calibration A: 73.4153
+Corrected Value A:  52
+C0RGB: [68.5997, 41.986, 24.121, 0]
+Calibration A: 77.4995
+Corrected Value A:  49
+C0RGB: [68.8113, 41.9313, 24.6337, 0]
+Calibration A: 77.6298
+Corrected Value A:  49
+C0RGB: [68.5938, 41.8833, 24.7997, 0]
+Calibration A: 77.5865
+Corrected Value A:  49
+C0RGB: [50.4705, 32.4844, 10.2674, 0]
+Calibration A: 67.3754
+Corrected Value A:  52
+C0RGB: [59.0829, 32.5396, 16.2635, 0]
+Calibration A: 73.6017
+Corrected Value A:  50
+C0RGB: [60.2783, 32.6918, 16.9475, 0]
+Calibration A: 74.4736
+Corrected Value A:  49
+C0RGB: [58.9735, 31.5871, 15.7784, 0]
+Calibration A: 74.3344
+Corrected Value A:  49
+C0RGB: [60.1112, 32.7723, 16.8126, 0]
+Calibration A: 74.3886
+Corrected Value A:  49
+C0RGB: [58.944, 31.6229, 15.8296, 0]
+Calibration A: 74.3739
+Corrected Value A:  49
+C0RGB: [204.497, 162.117, 78.679, 0]
+Calibration A: 93.1668
+Corrected Value A:  87
+C0RGB: [90.7386, 61.1122, 26.7228, 0]
+Calibration A: 66.5402
+Corrected Value A:  69
+C0RGB: [95.093, 62.4435, 36.5608, 0]
+Calibration A: 69.2673
+Corrected Value A:  68
+C0RGB: [95.22, 62.4662, 37.0841, 0]
+Calibration A: 69.3338
+Corrected Value A:  68
+C0RGB: [95.2494, 62.5601, 36.8906, 0]
+Calibration A: 69.3344
+Corrected Value A:  68
+C0RGB: [95.3152, 62.4706, 37.4623, 0]
+Calibration A: 69.4781
+Corrected Value A:  68
+C0RGB: [94.5655, 62.0261, 36.2929, 0]
+Calibration A: 68.9681
+Corrected Value A:  68
+C0RGB: [94.1814, 61.6689, 37.46, 0]
+Calibration A: 68.7767
+Corrected Value A:  68
+C0RGB: [87.8374, 60.7972, 18.2993, 0]
+Calibration A: 62.1519
+Corrected Value A:  72
+C0RGB: [95.0325, 63.1682, 35.5705, 0]
+Calibration A: 68.0116
+Corrected Value A:  69
+C0RGB: [96.4469, 63.639, 39.4834, 0]
+Calibration A: 68.8852
+Corrected Value A:  69
+C0RGB: [96.2557, 63.5396, 38.7204, 0]
+Calibration A: 68.7503
+Corrected Value A:  69
+C0RGB: [96.3905, 63.5801, 39.4329, 0]
+Calibration A: 68.8418
+Corrected Value A:  69
+C0RGB: [100.138, 65.4999, 15.0598, 0]
+Calibration A: 69.2332
+Corrected Value A:  70
+C0RGB: [105.944, 67.5303, 34.1058, 0]
+Calibration A: 73.0191
+Corrected Value A:  69
+C0RGB: [106.132, 67.2259, 36.6148, 0]
+Calibration A: 73.2321
+Corrected Value A:  68
+
+C0RGB: [104.636, 65.8595, 35.6654, 0]
+Calibration A: 72.0142
+Corrected Value A:  69
+C0RGB: [109.382, 69.6294, 39.8348, 0]
+Calibration A: 60.2541
+Corrected Value A:  83
+C0RGB: [105.522, 66.6962, 34.8788, 0]
+Calibration A: 72.7565
+Corrected Value A:  69
+C0RGB: [59.3734, 32.1371, 16.493, 0]
+Calibration A: 76.5401
+Corrected Value A:  47
+C0RGB: [59.6508, 32.2218, 17.0628, 0]
+Calibration A: 76.7795
+Corrected Value A:  47
+C0RGB: [60.3776, 32.9048, 17.5128, 0]
+Calibration A: 77.2569
+Corrected Value A:  46
+
+C0RGB: [59.7216, 32.2923, 16.2608, 0]
+Calibration A: 76.7177
+Corrected Value A:  47
+C0RGB: [57.536, 30.8599, 18.8379, 0]
+Calibration A: 74.8024
+Corrected Value A:  48
+
+C0RGB: [60.4889, 33.0136, 18.3018, 0]
+Calibration A: 77.3017
+Corrected Value A:  46
+C0RGB: [57.878, 31.1266, 17.9001, 0]
+Calibration A: 76.1296
+Corrected Value A:  47
+C0RGB: [57.2003, 30.4992, 17.1816, 0]
+Calibration A: 74.7924
+Corrected Value A:  48
+
+C0RGB: [61.3721, 33.8199, 17.8401, 0]
+Calibration A: 76.8841
+Corrected Value A:  47
+C0RGB: [59.5856, 32.7126, 18.5243, 0]
+Calibration A: 75.3986
+Corrected Value A:  48
+C0RGB: [58.5715, 31.994, 18.1855, 0]
+Calibration A: 74.6686
+Corrected Value A:  48
+C0RGB: [60.1911, 33.093, 20.1647, 0]
+Calibration A: 75.85
+Corrected Value A:  48
+
+C0RGB: [21.2071, 24.6647, 17.7241, 0]
+Calibration A: 58.6909
+Corrected Value A:  51
+C0RGB: [20.068, 25.9859, 17.0713, 0]
+Calibration A: 59.7845
+Corrected Value A:  50
+C0RGB: [24.1783, 26.3672, 20.7517, 0]
+Calibration A: 60.0177
+Corrected Value A:  50
+
+C0RGB: [26.6757, 30.133, 22.334, 0]
+Calibration A: 63.6846
+Corrected Value A:  48
+C0RGB: [55.7071, 28.8005, 18.6176, 0]
+Calibration A: 74.2905
+Corrected Value A:  48
+
+C0RGB: [60.7685, 33.7174, 18.8735, 0]
+Calibration A: 76.657
+Corrected Value A:  47
+C0RGB: [56.5304, 30.3015, 17.5708, 0]
+Calibration A: 74.9808
+Corrected Value A:  47
+C0RGB: [60.6552, 33.6755, 19.8531, 0]
+Calibration A: 76.4014
+Corrected Value A:  47
+C0RGB: [59.983, 33.0666, 19.6097, 0]
+Calibration A: 75.6996
+Corrected Value A:  48
+
+C0RGB: [58.7611, 31.6258, 16.7698, 0]
+Calibration A: 76.0838
+Corrected Value A:  47
+C0RGB: [59.2719, 32.3372, 17.8256, 0]
+Calibration A: 76.117
+Corrected Value A:  47
+C0RGB: [60.6291, 33.3776, 18.9824, 0]
+Calibration A: 76.1321
+Corrected Value A:  48
+
+C0RGB: [60.1012, 32.9914, 17.8082, 0]
+Calibration A: 76.9042
+Corrected Value A:  47
+C0RGB: [60.4908, 33.2691, 19.1912, 0]
+Calibration A: 76.8859
+Corrected Value A:  47
+C0RGB: [61.9356, 34.5724, 21.1888, 0]
+Calibration A: 77.0765
+Corrected Value A:  47
+
+C0RGB: [60.455, 33.3558, 18.3622, 0]
+Calibration A: 77.1263
+Corrected Value A:  47
+C0RGB: [62.2108, 34.7522, 21.1987, 0]
+Calibration A: 77.4036
+Corrected Value A:  47
+
+C0RGB: [60.862, 33.7287, 20.4515, 0]
+Calibration A: 76.5886
+Corrected Value A:  47
+C0RGB: [61.5143, 34.213, 21.7557, 0]
+Calibration A: 76.919
+Corrected Value A:  47
+C0RGB: [61.3871, 34.1376, 21.4786, 0]
+Calibration A: 76.6454
+Corrected Value A:  47
+C0RGB: [61.1122, 33.9379, 21.5344, 0]
+Calibration A: 76.5447
+Corrected Value A:  47
+C0RGB: [66.2256, 38.2891, 21.4106, 0]
+Calibration A: 83.6859
+Corrected Value A:  42
+C0RGB: [66.0318, 38.173, 21.0318, 0]
+Calibration A: 83.6319
+Corrected Value A:  42
+C0RGB: [58.8254, 38.3199, 32.2776, 0]
+Calibration A: 77.272
+Corrected Value A:  46
+C0RGB: [67.4973, 37.1051, 15.3251, 0]
+Calibration A: 83.7753
+Corrected Value A:  43
+C0RGB: [66.5957, 40.2416, 15.0507, 0]
+Calibration A: 85.0642
+Corrected Value A:  41
+C0RGB: [67.0975, 38.413, 15.8438, 0]
+Calibration A: 83.6181
+Corrected Value A:  43
+C0RGB: [68.483, 42.8663, 16.7054, 0]
+Calibration A: 84.9128
+Corrected Value A:  42
+C0RGB: [68.5196, 42.7948, 16.5081, 0]
+Calibration A: 84.9013
+Corrected Value A:  42
+C0RGB: [110.982, 71.0082, 40.0123, 0]
+Calibration A: 75.9224
+Corrected Value A:  68
+C0RGB: [110.726, 71.0302, 39.9549, 0]
+Calibration A: 75.8579
+Corrected Value A:  68
+C0RGB: [113.721, 73.1106, 41.3019, 0]
+Calibration A: 78.0218
+Corrected Value A:  67
+
+C0RGB: [104.35, 66.5213, 33.4513, 0]
+Calibration A: 71.3962
+Corrected Value A:  70
+C0RGB: [100.28, 63.503, 31.1818, 0]
+Calibration A: 70.7124
+Corrected Value A:  69
+C0RGB: [104.766, 66.9128, 34.6854, 0]
+Calibration A: 71.4867
+Corrected Value A:  70
+
+C0RGB: [102.474, 64.5987, 33.6493, 0]
+Calibration A: 68.875
+Corrected Value A:  71
+C0RGB: [103.745, 65.5106, 34.9765, 0]
+Calibration A: 69.5239
+Corrected Value A:  71
+
+C0RGB: [98.7097, 61.3362, 30.6812, 0]
+Calibration A: 68.3831
+Corrected Value A:  70
+C0RGB: [98.2581, 60.9113, 29.9923, 0]
+Calibration A: 68.1097
+Corrected Value A:  70
+C0RGB: [104.381, 65.8429, 34.7079, 0]
+Calibration A: 70.2052
+Corrected Value A:  71
+C0RGB: [98.4377, 61.1946, 31.4411, 0]
+Calibration A: 68.266
+Corrected Value A:  70
+C0RGB: [99.5398, 62.0715, 31.9204, 0]
+Calibration A: 68.4352
+Corrected Value A:  71
+C0RGB: [99.8699, 62.2903, 31.9773, 0]
+Calibration A: 68.9003
+Corrected Value A:  70
+
+
+C0RGB: [101.218, 63.3609, 30.4705, 0]
+Calibration A: 67.9537
+Corrected Value A:  72
+C0RGB: [102.586, 64.7594, 33.1343, 0]
+Calibration A: 69.3955
+Corrected Value A:  71
+C0RGB: [102.393, 64.4843, 32.9768, 0]
+Calibration A: 69.0209
+Corrected Value A:  71
+C0RGB: [103.502, 65.5879, 32.6792, 0]
+Calibration A: 69.0248
+Corrected Value A:  72
+C0RGB: [102.287, 64.4943, 33.2663, 0]
+Calibration A: 69.0836
+Corrected Value A:  71
+Calibration A: 58.1715
+Corrected Value A:  82
+Calibration A: 57.7342
+Corrected Value A:  82
+C0RGB: [97.5343, 65.2711, 39.5227, 0]
+Calibration A: 70.6806
+Corrected Value A:  68
+C0RGB: [98.255, 65.7915, 39.726, 0]
+Calibration A: 70.6867
+Corrected Value A:  68
+C0RGB: [61.8524, 34.802, 19.6889, 0]
+Calibration A: 76.8121
+Corrected Value A:  47
+C0RGB: [59.6066, 33.1933, 17.9529, 0]
+Calibration A: 74.9569
+Corrected Value A:  48
+C0RGB: [58.9784, 33.5876, 17.5313, 0]
+Calibration A: 71.3624
+Corrected Value A:  52
+C0RGB: [100.56, 65.9219, 38.3233, 0]
+Calibration A: 70.6626
+Corrected Value A:  69
+C0RGB: [96.6522, 59.9197, 31.009, 0]
+Calibration A: 65.622
+Corrected Value A:  72
+C0RGB: [60.6771, 34.9758, 18.5245, 0]
+Calibration A: 72.6784
+Corrected Value A:  51
+
+C0RGB: [59.1548, 32.8552, 20.7588, 0]
+Calibration A: 70.3042
+Corrected Value A:  53
+Calibration A: 56.5836
+Corrected Value A:  67
+Calibration A: 57.0596
+Corrected Value A:  66
+
+
+
+C0RGB: [73.3782, 45.8891, 23.5012, 0]
+Calibration A: 81.0494
+Corrected Value A:  48
+C0RGB: [73.4096, 45.7377, 24.2823, 0]
+Calibration A: 81.0542
+Corrected Value A:  48
+C0RGB: [114.794, 80.7448, 34.5345, 0]
+Calibration A: 79.6834
+Corrected Value A:  65
+C0RGB: [106.039, 67.6744, 32.1949, 0]
+Calibration A: 71.4283
+Corrected Value A:  70
+C0RGB: [93.5513, 60.6503, 34.5859, 0]
+Calibration A: 65.349
+Corrected Value A:  71
+C0RGB: [61.5632, 35.5721, 16.6751, 0]
+Calibration A: 73.3968
+Corrected Value A:  51
+C0RGB: [61.0534, 34.9931, 16.661, 0]
+Calibration A: 73.0942
+Corrected Value A:  51
+C0RGB: [67.3994, 48.8658, 37.8825, 0]
+Calibration A: 76.5869
+Corrected Value A:  50
+C0RGB: [54.4963, 30.2596, 14.5545, 0]
+Calibration A: 68.9281
+Corrected Value A:  52
+C0RGB: [44.0825, 23.1283, 10.0274, 0]
+Calibration A: 59.2578
+Corrected Value A:  58
+C0RGB: [73.2399, 46.5824, 21.8587, 0]
+Calibration A: 81.4216
+Corrected Value A:  47
+
+C0RGB: [47.6831, 25.2927, 10.6814, 0]
+Calibration A: 59.5584
+Corrected Value A:  59
+Calibration A: 57.0995
+Corrected Value A:  62
+
+
+
+
+C0RGB: [95.2516, 59.7069, 35.3035, 0]
+Calibration A: 63.5994
+Corrected Value A:  74
+C0RGB: [47.5768, 25.2501, 10.8572, 0]
+Calibration A: 61.025
+Corrected Value A:  58
+
+C0RGB: [48.6203, 25.0469, 14.3014, 0]
+Calibration A: 60.354
+Corrected Value A:  59
+C0RGB: [48.7147, 25.0494, 14.7846, 0]
+Calibration A: 60.58
+Corrected Value A:  59
+C0RGB: [52.9542, 29.511, 15.3243, 0]
+Calibration A: 64.258
+Corrected Value A:  57
+C0RGB: [92.9549, 57.8245, 31.1034, 0]
+Calibration A: 62.2366
+Corrected Value A:  74
+C0RGB: [96.9686, 61.0296, 31.9429, 0]
+Calibration A: 66.9042
+Corrected Value A:  71
+C0RGB: [52.6999, 29.2437, 14.8228, 0]
+Calibration A: 62.3555
+Corrected Value A:  58
+
+C0RGB: [64.1427, 47.5666, 36.917, 0]
+Calibration A: 76.3099
+Corrected Value A:  49
+C0RGB: [67.2943, 49.8308, 39.6371, 0]
+Calibration A: 78.4079
+Corrected Value A:  48
+C0RGB: [96.9029, 63.9918, 38.6419, 0]
+Calibration A: 73.5669
+Corrected Value A:  64
+C0RGB: [105.65, 73.1608, 40.0335, 0]
+Calibration A: 75.7826
+Corrected Value A:  66
+C0RGB: [106.69, 72.9999, 29.4965, 0]
+Calibration A: 81.6232
+Corrected Value A:  60
+C0RGB: [101.145, 76.5375, 59.7671, 0]
+Calibration A: 72.7398
+Corrected Value A:  67
+C0RGB: [70.1746, 45.3989, 16.4015, 0]
+Calibration A: 80.0165
+Corrected Value A:  48
+C0RGB: [72.6549, 47.4002, 20.4042, 0]
+Calibration A: 81.685
+Corrected Value A:  47
+C0RGB: [54.6831, 34.9441, 31.0654, 0]
+Calibration A: 74.1118
+Corrected Value A:  47
+
+C0RGB: [63.7599, 35.9408, 16.9527, 0]
+Calibration A: 81.3836
+Corrected Value A:  44
+C0RGB: [63.4133, 35.7627, 18.0482, 0]
+Calibration A: 81.2902
+Corrected Value A:  44
+C0RGB: [63.6602, 43.3144, 38.0218, 0]
+Calibration A: 79.9005
+Corrected Value A:  45
+C0RGB: [101.008, 66.7385, 39.3897, 0]
+Calibration A: 71.5578
+Corrected Value A:  68
+
+C0RGB: [102.141, 66.9718, 40.3021, 0]
+Calibration A: 71.5473
+Corrected Value A:  69
+C0RGB: [100.971, 66.1158, 40.5521, 0]
+Calibration A: 71.1537
+Corrected Value A:  68
+C0RGB: [96.1056, 59.2454, 30.328, 0]
+Calibration A: 64.7604
+Corrected Value A:  73
+C0RGB: [69.7074, 42.4771, 22.3993, 0]
+Calibration A: 76.7745
+Corrected Value A:  51
+C0RGB: [64.2005, 36.1791, 19.638, 0]
+Calibration A: 77.8828
+Corrected Value A:  47
+C0RGB: [102.247, 68.9211, 42.5626, 0]
+Calibration A: 73.8735
+Corrected Value A:  66
+C0RGB: [117.261, 80.2768, 51.7112, 0]
+Calibration A: 80.4582
+Corrected Value A:  66
+C0RGB: [119.419, 83.6904, 43.3965, 0]
+Calibration A: 82.1329
+Corrected Value A:  65
+C0RGB: [67.9876, 45.8351, 39.8222, 0]
+Calibration A: 81.7873
+Corrected Value A:  45
+C0RGB: [76.2495, 47.3311, 27.2625, 0]
+Calibration A: 82.1632
+Corrected Value A:  48
+C0RGB: [114.598, 74.5587, 16.0008, 0]
+Calibration A: 81.4178
+Corrected Value A:  64
+C0RGB: [56.237, 33.247, 31.5877, 0]
+Calibration A: 73.6879
+Corrected Value A:  48
+C0RGB: [61.4145, 34.5904, 23.7112, 0]
+Calibration A: 78.2727
+Corrected Value A:  46
+C0RGB: [67.2892, 44.6525, 24.292, 0]
+Calibration A: 76.9519
+Corrected Value A:  49
+C0RGB: [50.9109, 31.6658, 25.7223, 0]
+Calibration A: 77.644
+Corrected Value A:  42
+C0RGB: [37.4946, 17.9871, 9.48011, 0]
+Calibration A: 77.435
+Corrected Value A:  37
+C0RGB: [84.7747, 54.1277, 29.6577, 0]
+Calibration A: 77.0778
+Corrected Value A:  56
+C0RGB: [100.11, 72.2372, 50.1835, 0]
+Calibration A: 74.0751
+Corrected Value A:  65
+
+C0RGB: [73.5766, 54.3254, 45.741, 0]
+Calibration A: 81.6584
+Corrected Value A:  47
+C0RGB: [90.9281, 58.0971, 32.9954, 0]
+Calibration A: 69.0484
+Corrected Value A:  67
+C0RGB: [118.136, 81.2066, 42.3761, 0]
+Calibration A: 83.5131
+Corrected Value A:  63
+C0RGB: [123.734, 76.996, 19.0641, 0]
+Calibration A: 81.2958
+Corrected Value A:  67
+C0RGB: [80.4212, 51.3749, 28.587, 0]
+Calibration A: 92.6886
+Corrected Value A:  39
+
+C0RGB: [80.8513, 60.9713, 44.7349, 0]
+Calibration A: 87.6522
+Corrected Value A:  44
+C0RGB: [70.885, 41.5443, 20.9501, 0]
+Calibration A: 88.7071
+Corrected Value A:  39
+C0RGB: [109.496, 70.2207, 35.4426, 0]
+Calibration A: 81.1516
+Corrected Value A:  62
+C0RGB: [90.1617, 57.4, 28.5655, 0]
+Calibration A: 71.1288
+Corrected Value A:  64
+C0RGB: [108.976, 74.2209, 46.4954, 0]
+Calibration A: 81.1223
+Corrected Value A:  62
+
+C0RGB: [95.3887, 64.189, 38.4739, 0]
+Calibration A: 73.4421
+Corrected Value A:  64
+C0RGB: [98.6707, 61.8027, 30.2571, 0]
+Calibration A: 74.2016
+Corrected Value A:  64
+C0RGB: [98.6452, 61.8396, 30.1864, 0]
+Calibration A: 74.1411
+Corrected Value A:  65
+C0RGB: [64.7915, 36.0438, 17.2012, 0]
+Calibration A: 78.6629
+Corrected Value A:  47
+C0RGB: [96.7688, 60.2853, 28.056, 0]
+Calibration A: 71.7378
+Corrected Value A:  66
+C0RGB: [96.2047, 60.6344, 28.4262, 0]
+Calibration A: 71.796
+Corrected Value A:  66
+C0RGB: [96.8849, 60.7437, 28.4785, 0]
+Calibration A: 72.0523
+Corrected Value A:  66
+
+C0RGB: [89.8905, 55.4763, 25.8257, 0]
+Calibration A: 68.2782
+Corrected Value A:  67
+
+C0RGB: [83.6115, 50.7005, 22.8907, 0]
+Calibration A: 63.4281
+Corrected Value A:  69
+
+C0RGB: [83.5613, 50.7682, 23.6813, 0]
+Calibration A: 62.2548
+Corrected Value A:  71
+C0RGB: [118.424, 76.0808, 46.0352, 0]
+Calibration A: 83.5696
+Corrected Value A:  63
+
+C0RGB: [117.69, 76.364, 46.7057, 0]
+Calibration A: 82.8552
+Corrected Value A:  63
+
+C0RGB: [116.576, 75.0475, 44.8984, 0]
+Calibration A: 78.5583
+Corrected Value A:  67
+C0RGB: [117.746, 75.9241, 48.8205, 0]
+Calibration A: 78.9708
+Corrected Value A:  67
+
+
+
+
+C0RGB: [60.5997, 31.1141, 16.0908, 0]
+Calibration A: 69.5579
+Corrected Value A:  54
+
+C0RGB: [55.7612, 30.0338, 16.9872, 0]
+Calibration A: 68.0913
+Corrected Value A:  54
+C0RGB: [56.302, 30.9444, 19.0004, 0]
+Calibration A: 68.148
+Corrected Value A:  54
+
+C0RGB: [60.9807, 34.1052, 19.5395, 0]
+Calibration A: 69.7989
+Corrected Value A:  54
+
+C0RGB: [58.3353, 31.8548, 18.2802, 0]
+Calibration A: 67.5276
+Corrected Value A:  55
+C0RGB: [57.5784, 31.1128, 18.4269, 0]
+Calibration A: 67.4243
+Corrected Value A:  55
+C0RGB: [58.9318, 32.2341, 19.667, 0]
+Calibration A: 67.6864
+Corrected Value A:  55
+
+C0RGB: [58.1556, 32.0415, 17.8606, 0]
+Calibration A: 67.4876
+Corrected Value A:  55
+C0RGB: [58.705, 32.294, 19.8345, 0]
+Calibration A: 68.1991
+Corrected Value A:  55
+
+C0RGB: [57.3261, 31.0257, 17.4715, 0]
+Calibration A: 67.7311
+Corrected Value A:  55
+
+C0RGB: [59.8367, 32.9225, 19.2457, 0]
+Calibration A: 69.8709
+Corrected Value A:  54
+
+C0RGB: [11.949, 19.2613, 10.5938, 0]
+Calibration A: 55.3757
+Corrected Value A:  52
+C0RGB: [41.8091, 39.6099, 23.7113, 0]
+Calibration A: 54.0689
+Corrected Value A:  62
+C0RGB: [48.665, 50.8158, 37.1183, 0]
+Calibration A: 60.8749
+Corrected Value A:  59
+
+C0RGB: [118.534, 80.8075, 57.1338, 0]
+Calibration A: 86.1217
+Corrected Value A:  60
+C0RGB: [96.2245, 69.5647, 46.5526, 0]
+Calibration A: 73.3938
+Corrected Value A:  64
+C0RGB: [71.3955, 50.4537, 40.7935, 0]
+Calibration A: 82.8707
+Corrected Value A:  45
+C0RGB: [29.1807, 39.6937, 28.6101, 0]
+Calibration A: 63.9386
+Corrected Value A:  52
+C0RGB: [62.1078, 61.9132, 43.6281, 0]
+Calibration A: 64.1783
+Corrected Value A:  60
+C0RGB: [114.072, 73.2372, 39.9717, 0]
+Calibration A: 77.5866
+Corrected Value A:  67
+C0RGB: [58.4206, 33.1726, 15.3346, 0]
+Calibration A: 72.8932
+Corrected Value A:  50
+C0RGB: [110.705, 75.2013, 30.662, 0]
+Calibration A: 77.8408
+Corrected Value A:  66
+
+C0RGB: [98.6147, 68.2161, 42.0963, 0]
+Calibration A: 76.8193
+Corrected Value A:  62
+C0RGB: [97.8842, 65.0442, 39.4791, 0]
+Calibration A: 78.5534
+Corrected Value A:  60
+C0RGB: [88.8618, 57.4473, 27.4316, 0]
+Calibration A: 73.625
+Corrected Value A:  61
+C0RGB: [109.092, 76.014, 36.2285, 0]
+Calibration A: 76.784
+Corrected Value A:  66
+
+
+
+
+
+
+
+
